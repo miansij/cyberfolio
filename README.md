@@ -1,2 +1,2 @@
 # cyberfolio
-my works as data scientist
+my works as a junior data scientist
